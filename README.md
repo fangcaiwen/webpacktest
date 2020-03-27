@@ -48,4 +48,4 @@ module.exports = {
 ```
 在终端中输入npm run server即可在本地的8080端口查看结果
 
-https://segmentfault.com/img/remote/1460000010637713
+
